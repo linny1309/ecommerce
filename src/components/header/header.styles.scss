@@ -4,11 +4,14 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 25px;
+    background-color: black;
   
     .logo-container {
       height: 100%;
       width: 70px;
       padding: 25px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
     }
   
     .options {
@@ -20,6 +23,8 @@
   
       .option {
         padding: 10px 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
       }
     }
   }

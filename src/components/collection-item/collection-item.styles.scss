@@ -4,21 +4,25 @@
     flex-direction: column;
     height: 350px;
     align-items: center;
-  
+
     .image {
       width: 100%;
       height: 95%;
       background-size: cover;
       background-position: center;
       margin-bottom: 5px;
+      border-radius: 10px;  
     }
   
     .collection-footer {
       width: 100%;
-      height: 5%;
+      height: 9%;
       display: flex;
       justify-content: space-between;
       font-size: 18px;
+      background-color: black;
+      color: white;
+      border-radius: 5px;
   
       .name {
         width: 90%;

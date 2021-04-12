@@ -31,14 +31,14 @@ class Directory extends React.Component {
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://www.enlightenmedspa.com/wp-content/uploads/2017/05/many-women-hydrafacial-med-spa.jpg',
           size: 'large',
           id: 4,
           linkUrl: ''
         },
         {
           title: 'mens',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://fashionablymale.net/wp-content/uploads/2016/11/story-of-windy-city-by-hayden-su3.jpg',
           size: 'large',
           id: 5,
           linkUrl: ''
