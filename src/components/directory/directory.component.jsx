@@ -12,33 +12,33 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: 'hats',
-          imageUrl: 'https://assets.entrepreneur.com/content/3x2/2000/20150922210911-multiple-hats-outside-shop.jpeg?width=700&crop=2:1',
+          title: 'Amphibians',
+          imageUrl: 'https://images.theconversation.com/files/117973/original/image-20160408-23649-1qxbogn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop',
           id: 1,
           linkUrl: 'hats'
         },
         {
-          title: 'jackets',
-          imageUrl: 'https://manmakesfire.com/wp-content/uploads/2018/01/best-down-jackets-lightweight-puffy-heavyweight-parka-copy.jpg',
+          title: 'Reptiles',
+          imageUrl: 'https://www.sustainability-times.com/wp-content/uploads/thumbs/snake_green_toxic_close_yellow-1360744-1-37ce5boseygd6f9gfv83r4.jpg',
           id: 2,
           linkUrl: ''
         },
         {
-          title: 'sneakers',
-          imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+          title: 'Crustaceans',
+          imageUrl: 'https://nationalzoo.si.edu/sites/default/files/animals/landhermitcrab-002.jpg',
           id: 3,
           linkUrl: ''
         },
         {
-          title: 'womens',
-          imageUrl: 'https://www.enlightenmedspa.com/wp-content/uploads/2017/05/many-women-hydrafacial-med-spa.jpg',
+          title: 'Salt Water Fish',
+          imageUrl: 'https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg',
           size: 'large',
           id: 4,
           linkUrl: ''
         },
         {
-          title: 'mens',
-          imageUrl: 'https://fashionablymale.net/wp-content/uploads/2016/11/story-of-windy-city-by-hayden-su3.jpg',
+          title: 'Fresh Water Fish',
+          imageUrl: 'https://nhlakes.org/wp-content/uploads/nh-lakes-our-programs.jpg',
           size: 'large',
           id: 5,
           linkUrl: ''
