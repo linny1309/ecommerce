@@ -1,0 +1,31 @@
+.cart-dropdown {
+    position: absolute;
+    width: 240px;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgb(0, 28, 70);
+    top: 90px;
+    right: 40px;
+    z-index: 5;
+    overflow: hidden;
+    border-radius: 5px;
+  
+    .cart-items {
+      height: 240px;
+      display: flex;
+      flex-direction: column;
+      overflow-y: scroll;
+    }
+  
+    button {
+      margin-top: auto;
+      overflow: hidden;
+    }
+  }
+
+  ::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
