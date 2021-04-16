@@ -15,7 +15,7 @@ class Directory extends React.Component {
           title: 'Amphibians',
           imageUrl: 'https://images.theconversation.com/files/117973/original/image-20160408-23649-1qxbogn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop',
           id: 1,
-          linkUrl: 'hats'
+          linkUrl: 'amphibians'
         },
         {
           title: 'Reptiles',

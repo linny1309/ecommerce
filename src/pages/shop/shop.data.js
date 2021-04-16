@@ -48,31 +48,31 @@ const SHOP_DATA = [
       routeName: 'Reptiles',
       items: [
         {
-          id: 10,
+          id: 7,
           name: 'Anole',
           imageUrl: 'http://s7d2.scene7.com/is/image/PetSmart/AR1501_TOPIC_IMAGE-TheCoolFactor7ReptilesToChillWith-Anole-20160818?$AR0201$',
           price: 220
         },
         {
-          id: 11,
+          id: 8,
           name: 'Bearded Dragon',
           imageUrl: 'http://s7d2.scene7.com/is/image/PetSmart/AR1501_TOPIC_IMAGE-TheCoolFactor7ReptilesToChillWith-BeardedDragon-20160818?$AR0201$',
           price: 280
         },
         {
-          id: 12,
+          id: 9,
           name: 'Leopard Gecko',
           imageUrl: 'http://s7d2.scene7.com/is/image/PetSmart/AR1501_TOPIC_IMAGE-TheCoolFactor7ReptilesToChillWith-LeopardGecko-20160818?$AR0201$',
           price: 110
         },
         {
-          id: 13,
+          id: 10,
           name: 'Corn Snake',
           imageUrl: 'https://assets.petco.com/petco/image/upload/f_auto,q_auto/corn-snake',
           price: 160
         },
         {
-          id: 14,
+          id: 11,
           name: 'Ball Python',
           imageUrl: 'https://assets.petco.com/petco/image/upload/f_auto,q_auto/ball-python-1',
           price: 160
@@ -85,25 +85,25 @@ const SHOP_DATA = [
       routeName: 'Crustaceans',
       items: [
         {
-          id: 18,
+          id: 12,
           name: 'Snow Crab',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Chionoecetes_opilio_Kanikkokan.jpg',
           price: 125
         },
         {
-          id: 19,
+          id: 13,
           name: 'Hermit Crab',
           imageUrl: 'https://s7d2.scene7.com/is/image/PetSmart/ARHERO-ASetupGuideForNewHermitCrabParents-20160818?$AR0301$',
           price: 90
         },
         {
-          id: 20,
+          id: 14,
           name: 'Blue Crayfish',
           imageUrl: 'https://farm2.staticflickr.com/1571/25340283492_6ffd529b51.jpg',
           price: 90
         },
         {
-          id: 21,
+          id: 15,
           name: 'Marmorkrebs',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Marmorkrebs_Procambarus_fallax_forma_virginalis.JPG/512px-Marmorkrebs_Procambarus_fallax_forma_virginalis.JPG',
           price: 165
@@ -116,25 +116,25 @@ const SHOP_DATA = [
       routeName: 'Salt Water',
       items: [
         {
-          id: 23,
+          id: 16,
           name: 'Dottyback',
           imageUrl: 'https://www.petlandtexas.com/wp-content/uploads/2019/09/Petland_Texas_Dottyback.jpg',
           price: 25
         },
         {
-          id: 24,
+          id: 17,
           name: 'Firefish',
           imageUrl: 'https://www.petlandtexas.com/wp-content/uploads/2019/09/Petland_Texas_Firefish.jpg',
           price: 20
         },
         {
-          id: 25,
+          id: 18,
           name: 'Tangs',
           imageUrl: 'https://www.petlandtexas.com/wp-content/uploads/2019/09/Petland_Texas_Yellow_tang.jpg',
           price: 80
         },
         {
-          id: 26,
+          id: 19,
           name: 'Damselfish',
           imageUrl: 'https://www.petlandtexas.com/wp-content/uploads/2019/09/Petland_Texas_Damselfish.jpg',
           price: 80
@@ -147,25 +147,25 @@ const SHOP_DATA = [
       routeName: 'Fresh Water',
       items: [
         {
-          id: 30,
+          id: 20,
           name: 'Neon Tetra',
           imageUrl: 'https://www.petlandtexas.com/wp-content/uploads/2019/08/Petland_Texas_Neon_Tetra.jpg',
           price: 325
         },
         {
-          id: 31,
+          id: 21,
           name: 'Guppies',
           imageUrl: 'https://www.petlandtexas.com/wp-content/uploads/2019/08/Petland_Texas_guppies.jpg',
           price: 20
         },
         {
-          id: 32,
+          id: 22,
           name: 'Mollies',
           imageUrl: 'https://www.petlandtexas.com/wp-content/uploads/2019/08/Petland_Texas_mollies.jpg',
           price: 25
         },
         {
-          id: 33,
+          id: 23,
           name: 'Betta Fish',
           imageUrl: 'https://www.petlandtexas.com/wp-content/uploads/2019/08/Petland_Texas_Betta_fish.jpg',
           price: 25
